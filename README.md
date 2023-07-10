@@ -5,5 +5,5 @@ This interactive dashboard offers a comprehensive overview of individual players
 ## Visualization
 [View Dashboard](https://public.tableau.com/app/profile/prince.mayah/viz/NBA2021-22PlayerAnalysis/NBA2021-2022)
 <p align="center">
-<a href="https://public.tableau.com/app/profile/prince.mayah/viz/NBA2021-22PlayerAnalysis/NBA2021-2022" target="_blank" rel="noreferrer"> <img src="Dashboard%20Visualization.png" align="center"> </a> 
+<a href="https://public.tableau.com/app/profile/prince.mayah/viz/NBA2021-22PlayerAnalysis/NBA2021-2022" target="_blank" rel="noreferrer"> <img src="Dashboard%20Image.png" align="center"> </a> 
 
